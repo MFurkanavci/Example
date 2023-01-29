@@ -1,6 +1,6 @@
 # Example
 
-This is example an for Unity UI.
+This is example a for Unity UI.
 
 Working hover over UI feature impressed by Steam Collection UI animation in Unity.
 
